@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Rubén Emmanuel
 
-<!--
-**rubenhack-star/rubenhack-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Aprendiz de hacking ético | Bug bounty hunter en formación
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Mi enfoque actual:
+- Pentesting de aplicaciones web
+- OWASP Top 10
+- CTFs y laboratorios
+
+---
+
+🔗 [Ver mi portafolio completo](https://github.com/rubenhack-star/portafolio-hacking-etico)
