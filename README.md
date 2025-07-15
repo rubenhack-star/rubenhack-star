@@ -9,7 +9,7 @@
 
 <!-- GIF de presentación (ajusta el link tú mismo) -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/xvvKHKSrn5UAAAAC/cat-pixel.gif" width="300px">
+  <img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="300px">
 </p>
 
 ## 🎯 Objetivos
@@ -29,13 +29,18 @@
 - OverTheWire Bandit, TryHackMe, PortSwigger Academy
 
 <!-- GIF técnico relacionado con terminales o análisis -->
-<img align="right" src="AQUÍ_TU_LINK_DEL_GIF_2" width="300px" alt="GIF terminal"/>
+
+<img align="right" src="https://media.tenor.com/ZZu2QC-efdUAAAAi/cute-cat-white.gif" width="300px" />
+
 
 ## 💼 Oportunidades que busco
 - Trabajo remoto en ciberseguridad ofensiva
 - Programas de bug bounty y retos reales
 
-## ✨ Algo sobre mí
+
+
+
+ ✨ Algo sobre mí
 > 🌱 Siempre aprendiendo un poco cada día  
 > 🧠 La curiosidad es mi mejor herramienta
 
