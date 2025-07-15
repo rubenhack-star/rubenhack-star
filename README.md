@@ -13,8 +13,3 @@
 
 🔗 [Ver mi portafolio completo](https://github.com/rubenhack-star/portafolio-hacking-etico)
 
-## 🐍 Serpiente comiendo mi  gráfico de contribuciones.
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
