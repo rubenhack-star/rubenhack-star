@@ -9,12 +9,13 @@
 
 <!-- GIF de presentación (ajusta el link tú mismo) -->
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/120/120237.gif"/>
+  <img src="https://media1.tenor.com/m/xvvKHKSrn5UAAAAC/cat-pixel.gif" width="300px">
 </p>
 
 ## 🎯 Objetivos
 - Convertirme en experto en bug bounty
 - Conseguir un trabajo 100% remoto como analista de seguridad
+
 
 ## 🧠 Actualmente aprendiendo
 - Redes
