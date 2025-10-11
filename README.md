@@ -41,7 +41,7 @@
 
 
  ✨ Algo sobre mí
-> 🌱 Siempre aprendiendo un poco cada día  
+> 🌱 Siempre aprendiendo 
 > 🧠 La curiosidad es mi mejor herramienta
 
 ## 🔗 Mi portafolio
