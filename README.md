@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🚀 <strong>Aspirante a Hacker Ético autodidacta</strong><br>
+  <strong>Aspirante a Hacker Ético autodidacta</strong><br>
   Construyendo mi camino en la ciberseguridad ofensiva.
 </p>
 
@@ -12,12 +12,12 @@
   <img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="300px">
 </p>
 
-## 🎯 Objetivos
+## Objetivos
 - Convertirme en experto en bug bounty
 - Conseguir un trabajo 100% remoto como analista de seguridad
 
 
-## 🧠 Actualmente aprendiendo
+## Actualmente aprendiendo
 - Redes
 - Linux
 - Hacking web
@@ -33,16 +33,16 @@
 <img align="right" src="https://media.tenor.com/ZZu2QC-efdUAAAAi/cute-cat-white.gif" width="300px" />
 
 
-## 💼 Oportunidades que busco
+## Oportunidades que busco
 - Trabajo remoto en ciberseguridad ofensiva
 - Programas de bug bounty y retos reales
 
 
 
 
- ✨ Algo sobre mí
-> 🌱 Siempre aprendiendo 
-> 🧠 La curiosidad es mi mejor herramienta
+Algo sobre mí
+> Siempre aprendiendo 
+> La curiosidad es mi mejor herramienta
 
 ## 🔗 Mi portafolio
 📂 [Ver mi portafolio completo](https://github.com/rubenhack-star/portafolio-hacking-etico)
