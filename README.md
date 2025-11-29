@@ -9,7 +9,7 @@
 
 <!-- GIF de presentación -->
 <p align="center">
-  <img src="https://ruta-tu-gif.gif" width="500" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3N6OXgyZzQ1YTR5ZDVoYTR2aTN4ZHIxeDd4OWg1ZGtxaWJ3YjJrOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GFLB1pCmhgvIDSJTvp/giphy.gif" width="500" />
 </p>
 
 ## Objetivos
