@@ -7,9 +7,9 @@
   Construyendo mi camino en la ciberseguridad ofensiva.
 </p>
 
-<!-- GIF de presentación (ajusta el link tú mismo) -->
+<!-- GIF de presentación -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="300px">
+  <img src="https://ruta-tu-gif.gif" width="500" />
 </p>
 
 ## Objetivos
