@@ -39,7 +39,7 @@
 
 
 Algo sobre mí
-> Siempre aprendiendo
+> Siempre aprendiendo<br>
 > La curiosidad es mi mejor herramienta
 
 ## 🔗 Mi portafolio
