@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Aspirante a Hacker Ético autodidacta</strong><br>
-  Construyendo mi camino en la ciberseguridad ofensiva.
+  <strong>Construyendo mi camino para el area de pentester.</strong><br>
 </p>
 
 
@@ -13,8 +12,8 @@
 </p>
 
 ## Objetivos
-- Convertirme en experto en bug bounty
-- Conseguir un trabajo 100% remoto como analista de seguridad
+- Conseguir un trabajo 100% remoto como pentester
+- Y poder hacer bug bounty
 
 
 ## Actualmente aprendiendo
@@ -22,7 +21,7 @@
 - Linux
 - Hacking web
 - OSINT
-- Seguridad ofensiva
+
 
 ## Proyectos en progreso
 - Portafolio de hacking ético
@@ -33,14 +32,14 @@
 
 
 ## Oportunidades que busco
-- Trabajo remoto en ciberseguridad ofensiva
-- Programas de bug bounty y retos reales
+- Trabajo remoto como pentester
+- Programas de bug bounty 
 
 
 
 
 Algo sobre mí
-> Siempre aprendiendo,la curiosidad es mi mejor herramienta
+> Siempre aprendiendo
 > La curiosidad es mi mejor herramienta
 
 ## 🔗 Mi portafolio
