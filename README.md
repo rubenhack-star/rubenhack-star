@@ -1,57 +1,66 @@
 <h1 align="center">
-    Hola, soy Rubén
+  Rubén Emmanuel
 </h1>
 
 <p align="center">
-  <strong>Construyendo mi camino para el area de pentester.</strong><br>
+  Backend Developer in Training | APIs | Databases | Secure Systems
 </p>
 
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3N6OXgyZzQ1YTR5ZDVoYTR2aTN4ZHIxeDd4OWg1ZGtxaWJ3YjJrOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GFLB1pCmhgvIDSJTvp/giphy.gif" width="500" />
-</p>
+## Sobre mí
 
-## Objetivos
-- Conseguir un trabajo 100% remoto como pentester
-- Y poder hacer bug bounty
+Actualmente enfocado en desarrollo backend con interés en construir sistemas seguros, escalables y bien estructurados.
 
+Mi objetivo es conseguir un puesto como Backend Developer.
+
+---
+
+## Tech Stack
+
+- JavaScript (Node.js)
+- Express
+- REST APIs
+- PostgreSQL / MySQL
+- Git & GitHub
+- Linux básico
+
+---
+
+## Proyectos Destacados
+
+### Task Manager API
+API REST con autenticación JWT y control de roles.
+- CRUD completo
+- Hash de contraseñas
+- Validación de datos
+- Manejo de errores estructurado
+
+### Inventory System API
+Sistema backend para gestión de productos y usuarios.
+- Roles (admin / user)
+- Base de datos relacional
+
+*(Más proyectos en construcción)*
+
+---
 
 ## Actualmente aprendiendo
-- Redes
-- Linux
-- Hacking web
-- OSINT
 
+- Arquitectura backend
+- Buenas prácticas de seguridad
+- Diseño de bases de datos
+- Fundamentos de cloud
 
-## Proyectos en progreso
-- Portafolio de hacking ético
-- OverTheWire Bandit, TryHackMe, PortSwigger Academy
+---
 
+## Objetivo Profesional
 
-<img align="right" src="https://media.tenor.com/ZZu2QC-efdUAAAAi/cute-cat-white.gif" width="300px" />
+Conseguir una posición junior como Backend Developer (remoto o híbrido) y crecer hacia áreas de seguridad de aplicaciones.
 
+---
 
-## Oportunidades que busco
-- Trabajo remoto como pentester
-- Programas de bug bounty 
+## Contacto
 
-
-
-
-Algo sobre mí
-> Siempre aprendiendo<br>
-> La curiosidad es mi mejor herramienta
-
-## 🔗 Mi portafolio
-📂 [Ver mi portafolio completo](https://github.com/rubenhack-star/portafolio-hacking-etico)
-
-## Herramientas y entornos que utilizo
-
-
-<p>
-  <img src="https://img.shields.io/badge/Kali%20Linux-6C3483?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-884EA0?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-7D3C98?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TryHackMe-8E44AD?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-5B2C6F?style=for-the-badge&logo=notion&logoColor=white"/>
-</p>
+- GitHub: https://github.com/Ruben-backend
+- Email: ruben.emmanuel.dev@gmail.com
