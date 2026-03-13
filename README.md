@@ -64,3 +64,6 @@ Conseguir una posición junior como Backend Developer (remoto o híbrido) y crec
 
 - GitHub: https://github.com/Ruben-backend
 - Email: ruben.emmanuel.dev@gmail.com
+
+## Mis apuntes
+https://www.notion.so/d38814c2ad748271ac2e0164c165ffb1?v=971814c2ad7482abb3ac0874044ff9c7&source=copy_link
