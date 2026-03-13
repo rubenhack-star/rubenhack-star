@@ -29,26 +29,14 @@ Mi objetivo es conseguir un puesto como Backend Developer.
 
 ## Proyectos Destacados
 
-### Task Manager API
-API REST con autenticación JWT y control de roles.
-- CRUD completo
-- Hash de contraseñas
-- Validación de datos
-- Manejo de errores estructurado
-
-### Inventory System API
-Sistema backend para gestión de productos y usuarios.
-- Roles (admin / user)
-- Base de datos relacional
-
-*(Más proyectos en construcción)*
+*(Proyectos en construcción)*
 
 ---
 
 ## Actualmente aprendiendo
 
 - Arquitectura backend
-- Buenas prácticas de seguridad
+- Buenas prácticas 
 - Diseño de bases de datos
 - Fundamentos de cloud
 
