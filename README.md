@@ -41,6 +41,14 @@ Mi objetivo es conseguir un puesto como Backend Developer.
 - Fundamentos de cloud
 
 ---
+---
+
+## Portafolio
+
+- link
+
+
+---
 
 ## Objetivo Profesional
 
