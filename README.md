@@ -45,7 +45,7 @@ Mi objetivo es conseguir un puesto como Backend Developer.
 
 ## Portafolio
 
-- link
+https://github.com/Ruben-backend/backend-js-learning
 
 
 ---
